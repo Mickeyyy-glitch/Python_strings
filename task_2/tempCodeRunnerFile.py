@@ -1,0 +1,1 @@
+After school, Jack went home, ate dinner, and watched a movie.
