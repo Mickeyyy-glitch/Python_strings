@@ -1,4 +1,3 @@
-
 from string import ascii_lowercase
 
 
@@ -30,7 +29,6 @@ for ch in text:
                     new_word = alp[(i + K) % 26].upper()
                 else:
                     new_word = alp[(i + K) % 26]
-                break
 
         ans += new_word
 
